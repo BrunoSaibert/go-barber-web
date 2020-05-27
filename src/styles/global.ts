@@ -19,7 +19,7 @@ export default createGlobalStyle`
     font-family: 'Roboto Slab', serif;
   }
 
-  h1,h2,h3,h4,h5,h6,strong{
+  h1, h2, h3, h4, h5, h6, strong {
     font-weight: 500;
   }
 
